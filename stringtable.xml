@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Headstone_r06">
+
+	<Key ID="STR_TB_missionTitle_TB_Headstone">
+		<Original>Headstone</Original>
+		<English>Headstone</English>
+		<German>Headstone</German>
+		<Italian>Headstone</Italian>
+		<Spanish>Headstone</Spanish>
+		<French>Headstone</French>
+		<Czech>Headstone</Czech>
+		<Russian>Headstone</Russian>
+		<Polish>Headstone</Polish>
+		<Hungarian>Headstone</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
